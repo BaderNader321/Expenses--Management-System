@@ -1,5 +1,14 @@
 # Expense Management System Documentation
 
+### Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Folder Structure](#folder-structure)
+- [Setup Instructions](#setup-instructions)
+- [Dependencies](#dependencies)
+- [Contact](#contact)
+
 ## 1. Project Overview
 
 The Expense Management System is a comprehensive application designed to track, manage, and analyze personal or business expenses. The system is built with a modern architecture that separates frontend and backend components:
@@ -60,8 +69,6 @@ This system allows users to record expenses by date, categorize them, add notes,
   - `conftest.py`: Pytest configuration and fixtures
   - **Backend/**: Backend-specific tests
     - `test_db_helper.py`: Database helper function tests
-
-- **Documentation.md**: Project documentation (this file)
 - **README.md**: Quick start guide and project overview
 - **.gitignore**: Git version control exclusion patterns
 
@@ -104,3 +111,8 @@ This system allows users to record expenses by date, categorize them, add notes,
 - Python 3.13 or higher
 - MySQL Server
 - Internet connection (for loading Streamlit components)
+- 
+
+## Contact
+
+- Linkedin Post: 
