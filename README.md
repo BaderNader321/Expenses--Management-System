@@ -1,4 +1,4 @@
-# Expense Management System Documentation
+# Expense Management System
 
 ### Table of Contents
 
