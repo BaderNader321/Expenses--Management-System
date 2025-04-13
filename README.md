@@ -9,7 +9,7 @@
 * [Dependencies](#dependencies)
 * [Contact](#contact)
 
-## 1. Project Overview
+## Project Overview
 
 The Expense Management System is a comprehensive application designed to track, manage, and analyze personal or business expenses. The system is built with a modern architecture that separates frontend and backend components:
 
@@ -18,7 +18,7 @@ The Expense Management System is a comprehensive application designed to track, 
 
 This system allows users to record expenses by date, categorize them, add notes, and generate analytical reports to understand spending patterns over time and across different categories.
 
-## 2. Features
+## Features
 
 ### UI Features
 
@@ -48,7 +48,7 @@ This system allows users to record expenses by date, categorize them, add notes,
 - **Error Handling**: Comprehensive error handling with HTTP status codes and detailed error messages
 - **Logging**: Detailed logging of database operations for debugging and auditing
 
-## 3. Folder Structure
+## Folder Structure
 
 ### Project Root
 - **Backend/**: Contains all server-side code and API implementation
@@ -72,7 +72,7 @@ This system allows users to record expenses by date, categorize them, add notes,
 - **README.md**: Quick start guide and project overview
 - **.gitignore**: Git version control exclusion patterns
 
-## 4. Setup Instructions
+## Setup Instructions
 
 1. **Database Setup**:
    - Install MySQL server
@@ -91,7 +91,7 @@ This system allows users to record expenses by date, categorize them, add notes,
    - Start the Streamlit app: `streamlit run app.py`
    - The web interface will be available at http://localhost:8501
 
-## 4. Dependencies
+## Dependencies
 
 ### Backend Dependencies
 - fastapi==0.115.12: Modern, fast web framework for building APIs
