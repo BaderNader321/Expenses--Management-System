@@ -2,12 +2,12 @@
 
 ### Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Setup Instructions](#setup-instructions)
-- [Dependencies](#dependencies)
-- [Contact](#contact)
+* [Project Overview](#project-overview)
+* [Features](#features)
+* [Folder Structure](#folder-structure)
+* [Setup Instructions](#setup-instructions)
+* [Dependencies](#dependencies)
+* [Contact](#contact)
 
 ## 1. Project Overview
 
@@ -110,8 +110,6 @@ This system allows users to record expenses by date, categorize them, add notes,
 ### System Requirements
 - Python 3.13 or higher
 - MySQL Server
-- Internet connection (for loading Streamlit components)
-- 
 
 ## Contact
 
